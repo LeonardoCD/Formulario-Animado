@@ -1,5 +1,9 @@
 # Formulário animado com JS puro e CSS Animation
 
+<p alig="center">
+  <img src="banner-readme.png">
+</p>
+
 ## Desafios
 
 - [x] Fazer o formulário aparecer, suavemente, quando a página abrir
@@ -55,3 +59,8 @@ podemos ter múltiplas animações no mesmo elemento
 [Site para criar animações](http://animista.net/play/basic/scale-up)
 
 [Site para criar cubic Bézier timming](https://matthewlein.com/tools/ceaser)
+
+
+<h4 align="center">
+    Made with 💜 by <a href="https://www.linkedin.com/in/leonardo-f-carvalho/" target="_blank">Leonardo Carvalho</a>
+</h4>
